@@ -1,0 +1,24 @@
+{
+  "name": "plaid",
+  "description": "Alpine.js offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost.",
+  "keywords": [
+    "alpine",
+  ],
+  "author": "Caleb Porzio",
+  "license": "MIT",
+  "homepage": "https://github.com/alpinejs/alpine",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alpinejs/alpine.git"
+  },
+  "npmName": "alpinejs",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "alpine.min.js"
+}
